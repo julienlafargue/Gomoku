@@ -1,0 +1,9 @@
+START 5
+BOARD
+0,0,1
+0,1,1
+0,3,1
+0,4,1
+DONE
+DEBUG
+END
