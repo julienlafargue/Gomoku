@@ -3,7 +3,7 @@
 
 ## The project
 This project was carried out as part of my course to epitech over a period of three weeks in group of three.
-The goal was to achieve an artificial inteligence with the best algorhythm on the gomoku game.
+The goal was to achieve an artificial inteligence with the best algorithm on the gomoku game.
 
 ## The game
 The principle of the game is to align five pieces on a board that can make the size you wanted.
