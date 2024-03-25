@@ -2,7 +2,7 @@
 
 
 ## The project
-This project was carried out as part of my course to epitech over a period of three weeks in group of three.
+This project was carried out as part of my course to Epitech over a period of three weeks in group of three.
 The goal was to achieve an artificial inteligence with the best algorithm on the gomoku game.
 
 ## The game
